@@ -1,0 +1,14 @@
+/* CSS: Basic styling for file upload */
+#uploadForm {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+}
+
+#fileInput {
+    margin-right: 10px;
+}
